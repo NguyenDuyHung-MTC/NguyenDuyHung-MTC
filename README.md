@@ -105,4 +105,4 @@ Here are some ideas to get you started:
   <img src="svg/duyhungmtc-quotes.svg" width="846" height="150" alt="duyhungmtc-official" />
 </a>
 
-
+<p>//Source: https://github.com/trungquandev</p>
