@@ -80,16 +80,16 @@ Here are some ideas to get you started:
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/duyhungmtc" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100054195607365" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duyhungmtc-facebook" />
   </a>
   <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="duyhungmtc-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/duyhungmtc" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="duyhungmtc-linkedin" />
   </a>
-  <a href="https://instagram.com/duyhungmtc" target="blank">
+  <a href="https://www.instagram.com/khongquantam16102002/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duyhungmtc-instagram" />
   </a>
   <a href="mailto:duyhungmtc.official@gmail.com" target="top">
